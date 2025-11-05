@@ -209,7 +209,7 @@
           <div class="section-title"><h3>Contact</h3></div>
           <div class="contact-grid">
             <div class="contact-list">
-              <div class="contact-item"><strong>📧 Email:</strong>&nbsp;<span style="color:var(--muted)">jaasimbasha23@gmail.com</span></div>
+              <div class="contact-item"><strong>📧 Email:</strong>&nbsp;<span style="color:var(--muted)">durairajv172@gmail.com</span></div>
               <div class="contact-item"><strong>📱 Phone:</strong>&nbsp;<span style="color:var(--muted)">9345069552</span></div>
               
               
